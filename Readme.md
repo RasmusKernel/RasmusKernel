@@ -1,7 +1,7 @@
 <!-- README.md for RasmusKernel -->
 
 <div align="center">
-  <img src="https://github.com/RasmusKernel/RasmusKernel/blob/main/animation1.gif" alt="RasmusKernel banner" width="100%" style="border-radius:10px;"/>
+  <img src="https://github.com/RasmusKernel/RasmusKernel/blob/main/animation1.gif" alt="RasmusKernel banner" width="100%" style="border-radius:10px;height:50%;object-fit:cover;"/>
 </div>
 
 <div align="center">
